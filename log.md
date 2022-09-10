@@ -10,6 +10,7 @@
 
 ### Day 2: September 10, 2022 
 
-**Today's Progress**: 
+**Today's Progress**: Create README page. Learn different ways to set color values and how to pair colors with each other.
 
-**Thoughts:**
+**Thoughts:** I have fun and look forward to climbing this huge mountain. Nevertheless, I need to spend more time on the GitHub platform to understand it better.
+
