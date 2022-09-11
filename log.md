@@ -14,3 +14,9 @@
 
 **Thoughts:** I have fun and look forward to climbing this huge mountain. Nevertheless, I need to spend more time on the GitHub platform to understand it better.
 
+
+### Day 3: September 11, 2022 
+
+**Today's Progress**: Set up Visual Studio Code to continue practising the basics of html and css. Learn how to set internal and external links, elements, attributes and learn the first shortcuts.
+
+**Thoughts:** Curious
