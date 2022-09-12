@@ -24,5 +24,5 @@
 
 **Today's Progress**: Consolidating basics of CSS (inline, internal & external), deeving selectors, properties % values.
 
-**Thoughts:** think about starting a first project to apply what I have learnt
+**Thoughts:** think about starting a first project to apply what I have learnt.
 
