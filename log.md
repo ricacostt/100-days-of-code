@@ -19,4 +19,10 @@
 
 **Today's Progress**: Set up Visual Studio Code to continue practising the basics of html and css. Learn how to set internal and external links, elements, attributes and learn the first shortcuts.
 
-**Thoughts:** Curious
+
+## Day 4: September 12, 2022 
+
+**Today's Progress**: Consolidating basics of CSS (inline, internal & external), deeving selectors, properties % values.
+
+**Thoughts:** think about starting a first project to apply what I have learnt
+
