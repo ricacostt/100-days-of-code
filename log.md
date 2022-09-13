@@ -26,3 +26,8 @@
 
 **Thoughts:** think about starting a first project to apply what I have learnt.
 
+
+### Day 5: September 13, 2022 
+
+**Today's Progress**: Going through the first certification project in FreeCodeCamp: built a survey form to collect data from your users.
+
