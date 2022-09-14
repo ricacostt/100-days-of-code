@@ -41,4 +41,4 @@
 
 ![screen](https://user-images.githubusercontent.com/111753918/190258363-eea9a801-bce9-45d4-ae3d-19efe1ad63d5.png)
 <br>
-*screen of a picture of me today* 🚶‍♀️
+🚶‍♀️
