@@ -31,3 +31,14 @@
 
 **Today's Progress**: Going through the first certification project in FreeCodeCamp: built a survey form to collect data from your users.
 
+
+### Day 6: September 14, 2022 
+
+**Today's Progress**: 
+- Consolidating basics CSS: color, font, text & display properties | relative & absolute unit of mesaurement;
+- Discovering DevTools;
+- Understanding CSS Box Model (padding, margin, border & outline).
+
+![screen](https://user-images.githubusercontent.com/111753918/190258363-eea9a801-bce9-45d4-ae3d-19efe1ad63d5.png)
+<br>
+*screen of a picture of me today* 🚶‍♀️
