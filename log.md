@@ -42,3 +42,16 @@
 ![screen](https://user-images.githubusercontent.com/111753918/190258363-eea9a801-bce9-45d4-ae3d-19efe1ad63d5.png)
 <br>
 🚶‍♀️
+
+### Day 7: September 15, 2022 
+
+**Today's Progress**: 
+- Learn how to use images as background focusing on background-position and background-attachment properties;
+- Deepening into gradients;
+- Learning about float & clear properties | position property (static, relative, absolute, fixed;
+- understanding Media Queries for a Responsive Design;
+- Understanding z-index;
+- Last but not least, learning Pseudo element ::before & ::after.
+
+**Thoughts**: I certainly worked a lot more than an hour today, but at the end of the day I feel very satisfied.
+
