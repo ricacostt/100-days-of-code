@@ -62,7 +62,7 @@
 - Pseudo classes :link :visited :hover :active :root;
 - Transform property: translate, rotate, scale, skew; 
 - Transition: property, duration, delay & transiction-timing-funcion;
-- Approching Animation & keyframes: name, duration, iterarion-count & animation-fill-mode;
+- Approaching Animation & keyframes: name, duration, iterarion-count & animation-fill-mode;
 - CSS VARIABLES AKA Custom Properties.
 
 
