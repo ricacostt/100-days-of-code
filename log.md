@@ -61,7 +61,7 @@
 - Pseudo Elements ::first-line & ::first-letter;
 - Pseudo classes :link :visited :hover :active :root;
 - Tranform property: translate, rotate, scale, skew; 
-- Transition: property, duration, delay % transiction-timing-funcion;
+- Transition: property, duration, delay & transiction-timing-funcion;
 - Approching Animation & keyframes: name, duration, iterarion-count & animation-fill-mode;
 - CSS VARIABLES AKA Custom Properties.
 
