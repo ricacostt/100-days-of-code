@@ -53,5 +53,16 @@
 - Understanding z-index;
 - Last but not least, learning Pseudo element ::before & ::after.
 
+### Day 8: September 16, 2022 
+
+**▶️Today's Progress**: 
+- Basic selectors;
+- Descendant and Child Combinators;
+- Pseudo Elements ::first-line & ::first-letter;
+- Pseudo classes :link :visited :hover :active :root;
+- Tranform property: translate, rotate, scale, skew; 
+- Transition: property, duration, delay % transiction-timing-funcion;
+- Approching Animation & keyframes: name, duration, iterarion-count & animation-fill-mode;
+- CSS VARIABLES AKA Custom Properties.
 
 
