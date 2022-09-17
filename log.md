@@ -74,4 +74,4 @@
 - Text-shadow & box-shadow properties;
 - html semantic tags.
 
-If you want to learn coding from scratch **check this out**: https://www.youtube.com/watch?v=mU6anWqZJcc&t=34105s It was reallt useful to me.
+If you want to learn coding from scratch **check this out**: https://www.youtube.com/watch?v=mU6anWqZJcc&t=34105s It was really useful to me.
