@@ -66,3 +66,12 @@
 - CSS VARIABLES AKA Custom Properties.
 
 
+
+### Day 9: September 17, 2022 
+
+**▶️Today's Progress**: 
+- Handling Icons;
+- Text-shadow & box-shadow properties;
+- html semantic tags.
+
+If you want to learn coding from scratch **check this out**: https://www.youtube.com/watch?v=mU6anWqZJcc&t=34105s It was reallt useful to me.
