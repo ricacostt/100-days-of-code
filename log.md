@@ -75,3 +75,8 @@
 - html semantic tags.
 
 If you want to learn coding from scratch **check this out**: https://www.youtube.com/watch?v=mU6anWqZJcc&t=34105s It was really useful to me.
+
+
+### Day 10: September 18, 2022 
+
+Today I spent some time reviewing everything I have learnt so far to consolidate it. 🧘‍♀️
