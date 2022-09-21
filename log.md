@@ -80,3 +80,10 @@ If you want to learn coding from scratch **check this out**: https://www.youtube
 ### Day 10: September 18, 2022 
 
 Today I spent some time reviewing everything I have learnt so far to consolidate it. 🧘‍♀️
+
+
+### Day 11: September 20, 2022 
+
+School Of Code Festival of Learning
+
+An opportunity to learn, listen and be listened to, get to know each other and lay the right foundations to prepare for the next 16 weeks of intensive learning.
