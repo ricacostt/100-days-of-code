@@ -87,3 +87,8 @@ Today I spent some time reviewing everything I have learnt so far to consolidate
 School Of Code Festival of Learning
 
 An opportunity to learn, listen and be listened to, get to know each other and lay the right foundations to prepare for the next 16 weeks of intensive learning.
+
+
+### Day 12: September 22, 2022 
+
+**▶️Today's Progress**: I delved into the CSS Box Model, by building a Rothko painting and learnt CSS Flexbox by building a photo gallery. #freeCodeCamp
