@@ -92,3 +92,11 @@ An opportunity to learn, listen and be listened to, get to know each other and l
 ### Day 12: September 22, 2022 
 
 **▶️Today's Progress**: I delved into the CSS Box Model, by building a Rothko painting and learnt CSS Flexbox by building a photo gallery. #freeCodeCamp
+
+### Day 15: September 26, 2022
+
+**▶️Today's Progress**
+Learning CSS. Try CSS Diner → http://cssdiner.com #css #cssdiner #webdev via 
+@flukeout
+ 
+
