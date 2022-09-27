@@ -107,4 +107,4 @@ Learning CSS. Try CSS Diner → http://cssdiner.com #css #cssdiner #webdev via
 
 - Deepened the concept of computational thinking;
 - Worked on puzzles 35 and 2 from HacktheGalaxy by @Rapyd (reinforcing the idea that it is essential to understand the problem and look for patterns before trying to solve it);
-- Covered some basics on Git and GitHub.
+- Covered some basics of Git and GitHub.
