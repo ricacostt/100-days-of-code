@@ -115,3 +115,12 @@ Learning CSS. Try CSS Diner → http://cssdiner.com #css #cssdiner #webdev via
 
 - work in team with the same repository using GitHub;
 - moving the firs steps to learn JS - operators | statement & declarations | variables | functions.
+
+
+ ### Day 18: September 29, 2022
+
+**▶️Today's Progress**
+
+- meeting the person who is going to be my mentor for the next 16 weeks of my journey @SchoolOfCode;
+- listened to a specialist in mindset development and high performance teams who share the importance of seeking & giving feedback and the “best practice” to do it;
+- Learning a bit more about JS - Objects | Arrays.
