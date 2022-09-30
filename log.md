@@ -124,3 +124,12 @@ Learning CSS. Try CSS Diner → http://cssdiner.com #css #cssdiner #webdev via
 - meeting the person who is going to be my mentor for the next 16 weeks of my journey @SchoolOfCode;
 - listened to a specialist in mindset development and high performance teams who share the importance of seeking & giving feedback and the “best practice” to do it;
 - Learning a bit more about JS - Objects | Arrays.
+
+
+ ### Day 19: September 30, 2022
+
+**▶️Today's Progress**
+
+- ✅ my first hackathon! I worked in pairs to create a “Rock, Paper, Scissors” game using JavaScript;
+- 📂 presenting progress to my class on the “Rock, Paper, Scissors” project we worked on;
+- 🤝 found colleagues to exchange feedback with after the bootcamp hours.
