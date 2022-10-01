@@ -133,3 +133,26 @@ Learning CSS. Try CSS Diner → http://cssdiner.com #css #cssdiner #webdev via
 - ✅ my first hackathon! I worked in pairs to create a “Rock, Paper, Scissors” game using JavaScript;
 - 📂 presenting progress to my class on the “Rock, Paper, Scissors” project we worked on;
 - 🤝 found colleagues to exchange feedback with after the bootcamp hours.
+
+ ### Day 20: October 1, 2022
+
+**▶️Today's Progress**
+
+1.  Refactoring and continued work on the 'Rock, Paper, Scissors' project 
+
+2.  Recap and complete two previous workshops:
+
+workshop 1
+
+- Working with variables in the console
+- Logic with conditional statements
+
+
+
+workshop 2
+
+Implementing a password control system using:
+- variables
+- if statements
+- loops
+- functions
