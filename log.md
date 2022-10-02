@@ -138,21 +138,19 @@ Learning CSS. Try CSS Diner → http://cssdiner.com #css #cssdiner #webdev via
 
 **▶️Today's Progress**
 
-1.  Refactoring and continued work on the 'Rock, Paper, Scissors' project 
+1.  Refactoring and bug-fixing on the 'Rock, Paper, Scissors' project;
 
-2.  Recap and complete two previous workshops:
-
-workshop 1
-
-- Working with variables in the console
-- Logic with conditional statements
-
-
-
-workshop 2
-
-Implementing a password control system using:
+2.  Revised and completed a workshop I had left pending 'Implementation of a password control system' using:
 - variables
 - if statements
 - loops
 - functions
+
+
+### Day 21: October 2, 2022
+
+**▶️Today's Progress**
+
+good Sunday folks
+
+Today I decided to spend an hour reviewing functions and loops in JS and did 43/116 topics from the FreeCodeCamp 'Basic Javascript' course.
