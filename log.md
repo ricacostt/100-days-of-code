@@ -153,4 +153,7 @@ Learning CSS. Try CSS Diner → http://cssdiner.com #css #cssdiner #webdev via
 
 good Sunday folks
 
-Today I decided to spend an hour reviewing functions and loops in JS and did 43/116 topics from the FreeCodeCamp 'Basic Javascript' course.
+
+Today I decided to spend an hour reviewing functions and loops in JS and cover some new topics from the FreeCodeCamp 'Basic Javascript' course.
+
+But I also went for a bike ride and lazed in the park.
