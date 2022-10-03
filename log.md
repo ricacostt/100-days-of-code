@@ -163,7 +163,7 @@ But I also went for a bike ride and lazed in the park.
 
 **▶️Today's Progress**
 
-- Sign up for codeWars
-- Introduction of the Document Object Model **(DOM)** and working with it in the browser console.
-    - Learn about variables, selectors, nodeList, used functions & creating elements
+- Introduction of the Document Object Model (DOM) and working with it in the browser console, learnt about variables, selectors, using functions and creating elements in VSc.
+- Sign up for codeWars.
+
 
