@@ -157,3 +157,13 @@ good Sunday folks
 Today I decided to spend an hour reviewing functions and loops in JS and cover some new topics from the FreeCodeCamp 'Basic Javascript' course.
 
 But I also went for a bike ride and lazed in the park.
+
+
+### Day 22: October 3, 2022
+
+**▶️Today's Progress**
+
+- Sign up for codeWars
+- Introduction of the Document Object Model **(DOM)** and working with it in the browser console.
+    - Learn about variables, selectors, nodeList, used functions & creating elements
+
