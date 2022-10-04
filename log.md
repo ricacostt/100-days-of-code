@@ -167,3 +167,9 @@ But I also went for a bike ride and lazed in the park.
 - Sign up for codeWars.
 
 
+### Day 23: October 4, 2022
+
+**▶️Today's Progress**
+
+- Learnt about events in JS (click - keyup - mouseenter - mouseleave) and used them to change elements in the HTML;
+- Rock, Paper, Scissors #DOM-edition, trying refactoring the application. The most difficult challenge so far even though I learnt about anonymous functions.
