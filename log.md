@@ -173,3 +173,9 @@ But I also went for a bike ride and lazed in the park.
 
 - Learnt about events in JS (click - keyup - mouseenter - mouseleave) and used them to change elements in the HTML;
 - Rock, Paper, Scissors #DOM-edition, trying refactoring the application. The most difficult challenge so far even though I learnt about anonymous functions.
+
+### Day 24: October 5, 2022
+
+**▶️Today's Progress**
+- understanding asynchrony in programming and how to "scheduling a call" with #setTimeout & #setInterval methods;
+- discover APIs (fetch & Json method). On today’s project we used APIs to display Kenye quotes on a page.
