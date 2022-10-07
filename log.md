@@ -187,3 +187,8 @@ But I also went for a bike ride and lazed in the park.
 1. understanding more about different ways of thinking styles, how to build more efficient teams leveraging on cognitive diversity;
 2. practising on APIs and how to navigate data;
 3. did my first group research and presentation! topic: **Deeper dive into more obscure HTML tags** - we covered video, SVG, canvas and progress tags.
+
+##Day 26: October 7, 2022
+
+#Hackathon day.
+Goal: create a web page that fetches selected jokes from an API with one click and scrolls through selected images linked to the joke.
