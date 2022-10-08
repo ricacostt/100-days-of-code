@@ -192,3 +192,10 @@ But I also went for a bike ride and lazed in the park.
 
 #Hackathon day.
 Goal: create a web page that fetches selected jokes from an API with one click and scrolls through selected images linked to the joke.
+
+
+ ### Day 27: October 8, 2022
+
+**▶️Today's Progress**
+I reviewed and completed some final workshop tasks from earlier this week before relaxing with some friends.
+
