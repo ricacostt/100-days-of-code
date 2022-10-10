@@ -188,7 +188,7 @@ But I also went for a bike ride and lazed in the park.
 2. practising on APIs and how to navigate data;
 3. did my first group research and presentation! topic: **Deeper dive into more obscure HTML tags** - we covered video, SVG, canvas and progress tags.
 
-##Day 26: October 7, 2022
+### Day 26: October 7, 2022
 
 #Hackathon day.
 Goal: create a web page that fetches selected jokes from an API with one click and scrolls through selected images linked to the joke.
@@ -199,3 +199,12 @@ Goal: create a web page that fetches selected jokes from an API with one click a
 **▶️Today's Progress**
 I reviewed and completed some final workshop tasks from earlier this week before relaxing with some friends.
 
+
+ ### Day 28: October 9, 2022
+
+**▶️Today's Progress**
+Spent the morning outdoors☀️ended up at a place by chance where I took more than a dozen of books.
+
+In the afternoon I put into practice what I have learned so far together with fellow boot campers🙏🙌.
+- functions & asyn functions | for loop | learnt startWith method | consolidate push method | eventlistener | setInterval | fetch & json working with an API of ramdom cat pictures.
+- I managed to create a "list maker" which takes in input fields either a list item and a priority value. But I had issues on how to sort them bt priority / --> how to sort HTML elements based on a property value.
