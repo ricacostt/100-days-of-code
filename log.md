@@ -208,3 +208,11 @@ Spent the morning outdoors☀️ended up at a place by chance where I took more 
 In the afternoon I put into practice what I have learned so far together with fellow boot campers🙏🙌.
 - functions & asyn functions | for loop | learnt startWith method | consolidate push method | eventlistener | setInterval | fetch & json working with an API of ramdom cat pictures.
 - I managed to create a "list maker" which takes in input fields either a list item and a priority value. But I had issues on how to sort them bt priority / --> how to sort HTML elements based on a property value.
+
+
+### Day 10: October 9, 2022
+
+**▶️Today's Progress**
+
+- introduction to Agile methodology and the world of UI/UX design;
+- did a "blind" challenge trying to recreate the Google search interface without seeing the real-time preview. It made me realise how crucial it is to have recurrent feedbacks.
