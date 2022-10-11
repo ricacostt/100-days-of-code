@@ -216,3 +216,13 @@ In the afternoon I put into practice what I have learned so far together with fe
 
 - introduction to Agile methodology and the world of UI/UX design;
 - did a "blind" challenge trying to recreate the Google search interface without seeing the real-time preview. It made me realise how crucial it is to have recurrent feedbacks.
+
+
+
+### Day 11: October 10, 2022
+
+**▶️Today's Progress**
+
+- tackling problems in codeWars in the morning;
+- delved in the UX Design Thinking Process: empathise, define, ideate, prototype, test
+- learnt about CSS variables and how to toggle between light and dark mode.
