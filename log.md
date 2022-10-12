@@ -210,7 +210,7 @@ In the afternoon I put into practice what I have learned so far together with fe
 - I managed to create a "list maker" which takes in input fields either a list item and a priority value. But I had issues on how to sort them bt priority / --> how to sort HTML elements based on a property value.
 
 
-### Day 10: October 9, 2022
+### Day 29: October 10, 2022
 
 **▶️Today's Progress**
 
@@ -219,10 +219,20 @@ In the afternoon I put into practice what I have learned so far together with fe
 
 
 
-### Day 11: October 10, 2022
+### Day 30: October 11, 2022
 
 **▶️Today's Progress**
 
 - tackling problems in codeWars in the morning;
 - delved in the UX Design Thinking Process: empathise, define, ideate, prototype, test
 - learnt about CSS variables and how to toggle between light and dark mode.
+
+
+
+### Day 31: October 12, 2022
+
+**▶️Today's Progress**
+
+- having had the opportunity to meet a hiring partner, co-founder, advisor and chief technology officer to multiple tech platforms and listening to UX designer's journey - chance to connect!
+- deepen in UI/UX elements and principles - speaking about wireframes and prototyping and practising using Figma
+- how to organise CSS and specificity.
