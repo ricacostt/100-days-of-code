@@ -234,7 +234,7 @@ In the afternoon I put into practice what I have learned so far together with fe
 **▶️Today's Progress**
 
 - having had the opportunity to meet a hiring partner, co-founder, advisor and chief technology officer to multiple tech platforms and listening to UX designer's journey - chance to connect!
-🤩Delved into UI/UX elements and principles. Explored wireframes and prototyping using Figma to put into practice.
-👉🏼More about Gestal principles here:
+- 🤩Delved into UI/UX elements and principles. Explored wireframes and prototyping using Figma to put into practice.
+- 👉🏼More about Gestal principles here:
 https://toptal.com/designers/ui/gestalt-principles-of-design#:~:text=There%20are%20six%20individual%20principles,gestalt%2C%20such%20as%20common%20fate.
-🔶Talked also about specificity and how to organise CSS.
+- 🔶Talked also about specificity and how to organise CSS.
