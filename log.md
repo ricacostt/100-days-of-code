@@ -238,3 +238,14 @@ In the afternoon I put into practice what I have learned so far together with fe
 - 👉🏼More about Gestal principles here:
 https://toptal.com/designers/ui/gestalt-principles-of-design#:~:text=There%20are%20six%20individual%20principles,gestalt%2C%20such%20as%20common%20fate.
 - 🔶Talked also about specificity and how to organise CSS.
+
+
+
+### Day 32: October 13, 2022
+
+**▶️Today's Progress**
+
+- participated in a reflection session on the concept of listening;
+- had the opportunity to meet Paavan UX Designer who shared with us some key concepts about UI/UX design 
+- Responsive CSS
+- Group research and presentation: Usability study
