@@ -251,4 +251,4 @@ https://toptal.com/designers/ui/gestalt-principles-of-design#:~:text=There%20are
 
 - ⚙️Learnt more about responsive CSS;
 
-- 📲Group presentation: *Usability study*.
+- 📲Group presentation: *Usability study*: https://docs.google.com/presentation/d/1-RczkktJ8hrRw0V-m5LvVaGVrK6O7YVtKctLjbAWhm0/edit?usp=sharing
