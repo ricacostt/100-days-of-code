@@ -245,7 +245,10 @@ https://toptal.com/designers/ui/gestalt-principles-of-design#:~:text=There%20are
 
 **▶️Today's Progress**
 
-- participated in a reflection session on the concept of listening;
-- had the opportunity to meet Paavan UX Designer who shared with us some key concepts about UI/UX design 
-- Responsive CSS
-- Group research and presentation: Usability study
+- 🔸Reflection session on the concept of listening;
+
+- 🪄Met a senior digital product designer who shared UI/UX key concepts;
+
+- ⚙️Learnt more about responsive CSS;
+
+- 📲Group presentation: *Usability study*.
