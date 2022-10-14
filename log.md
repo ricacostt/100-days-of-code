@@ -252,3 +252,17 @@ https://toptal.com/designers/ui/gestalt-principles-of-design#:~:text=There%20are
 - ⚙️Learnt more about responsive CSS;
 
 - 📲Group presentation: *Usability study*: https://docs.google.com/presentation/d/1-RczkktJ8hrRw0V-m5LvVaGVrK6O7YVtKctLjbAWhm0/edit?usp=sharing
+
+
+
+## Day 33: October 14, 2022
+
+**▶️Today's Progress**
+
+Hackathon Day!
+Team work! Created a Snow Leopard rescue landing page:
+project that we developed specifically following all stages of the Design Thinking process and then presented it to the class.
+we did an amazing job and I wish I could've presented and communicated the project more efficiently.
+<br>
+![Schermata 2022-10-14 alle 21 15 05](https://user-images.githubusercontent.com/111753918/195934581-342ac4d9-3193-40b1-9927-5c6c735fa9a6.png)
+
