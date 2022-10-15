@@ -264,3 +264,8 @@ SnowLeopard rescue landing page❄️❄️❄️🐆❄️❄️: project devel
 <br>
 ![Schermata 2022-10-14 alle 21 15 05](https://user-images.githubusercontent.com/111753918/195934581-342ac4d9-3193-40b1-9927-5c6c735fa9a6.png)
 
+
+## Day 34: October 15, 2022
+
+**▶️Today's Progress**
+Enjoying my time at home today, I did a quick rundown of basic JS (functions, pop(), shift(), unshift(), escape sequences...).
