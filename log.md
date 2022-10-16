@@ -269,3 +269,11 @@ SnowLeopard rescue landing page❄️❄️❄️🐆❄️❄️: project devel
 
 **▶️Today's Progress**
 Enjoying my time at home today, I did a quick rundown of basic JS (functions, pop(), shift(), unshift(), escape sequences...).
+
+
+## Day 35: October 16, 2022
+
+**▶️Today's Progress**
+- reviewing more JS through FFC(- switch statements - delete properties from an object - nesting for loops - do..while loop - parseInt function);
+- read the "clean code guide" 
+- working with Figma
