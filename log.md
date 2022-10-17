@@ -267,13 +267,17 @@ SnowLeopard rescue landing page❄️❄️❄️🐆❄️❄️: project devel
 
 ## Day 34: October 15, 2022
 
-**▶️Today's Progress**
 Enjoying my time at home today, I did a quick rundown of basic JS (functions, pop(), shift(), unshift(), escape sequences...).
 
 
 ## Day 35: October 16, 2022
 
-**▶️Today's Progress**
 - reviewing more JS through FFC(- switch statements - delete properties from an object - nesting for loops - do..while loop - parseInt function);
 - read the "clean code guide" 
 - working with Figma
+
+
+## Day 36: October 17, 2022
+
+- learnt how to debug and interpret errors;
+- introduction to Node.js, learnt about modules (common JS) and how to export/require them. I didn't get to attend the whole lecture but I had my first group meeting and it was nice to have shared thoughts and emotions to each other.
