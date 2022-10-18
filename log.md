@@ -281,3 +281,8 @@ Enjoying my time at home today, I did a quick rundown of basic JS (functions, po
 
 - learnt how to debug and interpret errors;
 - introduction to Node.js, learnt about modules (common JS) and how to export/require them. I didn't get to attend the whole lecture but I had my first group meeting and it was nice to have shared thoughts and emotions to each other.
+
+## Day 37: October 18, 2022
+
+First steps in back-end development, I am more confused than persuaded. 
+Working node.js, used third-party module from npm to generate random IDs, used fs core module to read and write files and learnt about the interaction between clients and servers.
