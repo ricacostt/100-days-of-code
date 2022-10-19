@@ -285,4 +285,11 @@ Enjoying my time at home today, I did a quick rundown of basic JS (functions, po
 ## Day 37: October 18, 2022
 
 First steps in back-end development, I am more confused than persuaded. 
-Working node.js, used third-party module from npm to generate random IDs, used fs core module to read and write files and learnt about the interaction between clients and servers.
+Working with node.js, used third-party module from npm to generate random IDs, used fs core module to read and write files and learnt about the interaction between clients and servers.
+
+
+## Day 38: October 19, 2022
+
+- learnt about rest APIs, status codes, URL parameters
+- learnt about models' functions (CRUD) and http methods POST, GET, PUT, and DELETE, respectively.
+- getting started using POSTMAN by figure out how to "escape the earth" - sending different requests to different paths.
