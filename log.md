@@ -293,3 +293,9 @@ Working with node.js, used third-party module from npm to generate random IDs, u
 - learnt about rest APIs, status codes, URL parameters
 - learnt about models' functions (CRUD) and http methods POST, GET, PUT, and DELETE, respectively.
 - getting started using POSTMAN by figure out how to "escape the earth" - sending different requests to different paths.
+
+## Day 39: October 20, 2022
+
+- participated in a great mindset session: Identifying your inner critic and how to push your inner champion.
+- keep practising with rest APIs, crud and http methods;
+- be introduced to the middleware chain and the separation of concerns (modules & routers).
