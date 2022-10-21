@@ -299,3 +299,9 @@ Working with node.js, used third-party module from npm to generate random IDs, u
 - participated in a great mindset session: Identifying your inner critic and how to push your inner champion.
 - keep practising with rest APIs, crud and http methods;
 - be introduced to the middleware chain and the separation of concerns (modules & routers).
+
+## Day 40: October 21, 2022
+
+Another Hackaton Day, one of the most difficult.
+Building a **Back End** application for recipes!
+I am starting to understand better how to separate concerns and their importance. well done everyone!
