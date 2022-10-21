@@ -305,3 +305,8 @@ Working with node.js, used third-party module from npm to generate random IDs, u
 Another Hackaton Day, one of the most difficult.
 Building a **Back End** application for recipes!
 I am starting to understand better how to separate concerns and their importance. well done everyone!
+<br>
+<br>
+But also:
+- have a change to present myself in front of a guest speaker and the entire cohort!
+- did my first progress check
