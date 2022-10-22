@@ -310,3 +310,7 @@ I am starting to understand better how to separate concerns and their importance
 But also:
 - have a change to present myself in front of a guest speaker and the entire cohort!
 - did my first progress check
+
+## Day 41: October 21, 2022
+- did some research to consolidate my knowledge on how to build a REST API with Node js and Express;
+- I made some sketches for my portfolio.
