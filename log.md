@@ -311,6 +311,10 @@ But also:
 - have a change to present myself in front of a guest speaker and the entire cohort!
 - did my first progress check
 
-## Day 41: October 21, 2022
+## Day 41: October 22, 2022
 - did some research to consolidate my knowledge on how to build a REST API with Node js and Express;
 - I made some sketches for my portfolio.
+
+## Day 42: October 23, 2022
+Today I went through the recap tasks - and left the delete route handler for tomorrow.
+But I also started reading "Fantasia" by @Munari - it's been a truly inspiring read.
