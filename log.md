@@ -318,3 +318,7 @@ But also:
 ## Day 42: October 23, 2022
 Today I went through the recap tasks - and left the delete route handler for tomorrow.
 But I also started reading "Fantasia" by @Munari - it's been a truly inspiring read.
+
+## Day 43: October 24, 2022
+🧩today we added the last piece of the puzzle: databases! 
+🦥We learnt the difference between relational and non-relational databases. We delved into PostgreSQL, playing with schemas and queries.
