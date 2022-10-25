@@ -322,3 +322,6 @@ But I also started reading "Fantasia" by @Munari - it's been a truly inspiring r
 ## Day 43: October 24, 2022
 🧩today we added the last piece of the puzzle: databases! 
 🦥We learnt the difference between relational and non-relational databases. We delved into PostgreSQL, playing with schemas and queries.
+
+## Day 44: October 25, 2022
+dived into SQL - solve a Murder Mystery https://mystery.knightlab.com/index.html#experienced - Learnt how to JOIN different tables with columns in common / two columns of the same table - learnt more clauses 
