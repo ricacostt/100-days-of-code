@@ -326,3 +326,7 @@ But I also started reading "Fantasia" by @Munari - it's been a truly inspiring r
 ## Day 44: October 25, 2022
 🕵🏼‍♀️Dived into SQL solving a Murder Mystery🔪 https://mystery.knightlab.com/index.html#experienced 
 Learnt 🏋🏼‍♂️how to JOIN different 🪪tables with columns in common / two columns of the same table.👩🏼‍🦰
+
+## Day 45: October 26, 2022
+- learnt how to Use Node Environment Variables with a DotEnv File for Node.js and npm
+- learnt about **Node-Postgres(PG):** node modules that allow us interfacing with PostgreSQL databases.
