@@ -328,5 +328,6 @@ But I also started reading "Fantasia" by @Munari - it's been a truly inspiring r
 Learnt 🏋🏼‍♂️how to JOIN different 🪪tables with columns in common / two columns of the same table.👩🏼‍🦰
 
 ## Day 45: October 26, 2022
-- learnt how to Use Node Environment Variables with a DotEnv File for Node.js and npm
+- Created a SQL database
+- Used Node Environment Variables with a DotEnv File for Node.js and npm
 - learnt about **Node-Postgres(PG):** node modules that allow us interfacing with PostgreSQL databases.
