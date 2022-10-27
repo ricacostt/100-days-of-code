@@ -331,3 +331,9 @@ Learnt 🏋🏼‍♂️how to JOIN different 🪪tables with columns in common 
 - Created a SQL database
 - Used Node Environment Variables with a DotEnv File for Node.js and npm
 - learnt about **Node-Postgres(PG):** node modules that allow us interfacing with PostgreSQL databases.
+
+## Day 46: October 27, 2022
+- had a useful mindset session this morning about group Decision Making and how to expand our personal top values,
+- research & group presentation about: API rest-limiting & express-rate-limiting package in npm,
+- did some katas with my mentor and we talked about writing the parameterized queries to send requests to the database in sql and getting the corresponding response,
+- met with some fellow bootcampers in kumospace to fix all the bugs and finished the workshop!
