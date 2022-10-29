@@ -353,3 +353,7 @@ Then straight into vscode taking care to make a set up that would allow us to se
 
 :heavy_check_mark: Tested eeach request in Postman.
 
+## Day 48: October 29, 2022
+- shared some doubts with my fellow bootcampers today 
+- forked the hackathon repo to improve some functionalities
+- also, cooked some dinner waiting for some friends
