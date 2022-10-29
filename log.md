@@ -337,3 +337,19 @@ Learnt 🏋🏼‍♂️how to JOIN different 🪪tables with columns in common 
 - research & group presentation about: API rest-limiting & express-rate-limiting package in npm,
 - did some katas with my mentor and we talked about writing the parameterized queries to send requests to the database in sql and getting the corresponding response,
 - met with some fellow bootcampers in kumospace to fix all the bugs and finished the workshop!
+
+## Day 47: October 28, 2022
+:running: Hackathon Day! 
+In today's project the objective was: Build a REST API with Node.js, Express & PostgreSQL.
+I am happy with the result and our determination and skill in solving problems and bugs that arose during the day.
+It is a good starting point for a nice project in the future.
+
+*The goal*: create a medical record that could be used by a therapist to store his personal clients’ assessments.
+🐘We focused more on functionality than complexity and we created efficiently the tables and their respective columns with identity keys kept in mind, in elephantSQL. 
+![Schermata 2022-10-29 alle 11 56 07](https://user-images.githubusercontent.com/111753918/198827512-87fbe5aa-e763-46c4-a696-f792d36951f8.png)
+
+Then straight into vscode taking care to make a set up that would allow us to separate concerns and keep sensitive information private.
+:rocket: Built route handlers and functions that would allow the user to read all his patient info, filter searches, add new patients/treatments/medications or update them.
+
+:heavy_check_mark: Tested eeach request in Postman.
+
