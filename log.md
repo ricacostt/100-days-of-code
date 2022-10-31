@@ -357,3 +357,11 @@ Then straight into vscode taking care to make a set up that would allow us to se
 - shared some doubts with my fellow bootcampers today 
 - forked the hackathon repo to improve some functionalities
 - also, cooked some dinner waiting for some friends
+- 
+
+## Day 49: October 30, 2022
+This weekend I learned about the history of JavaScript modules and the difference between the CJS and the ESM module system🌀
+
+
+## Day 50: October 31, 2022
+What is sowtware testing? Today we were introducted to Jest and used it to do some basic testing in JavaScript.
