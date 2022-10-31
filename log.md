@@ -364,4 +364,4 @@ This weekend I learned about the history of JavaScript modules and the differenc
 
 
 ## Day 50: October 31, 2022
-What is Software Testing? Today we were introducted to Jest and used it to do some basic testing in JavaScript.
+What is Software Testing? Today we were introduced to Jest and used it to do some basic testing in JavaScript.
