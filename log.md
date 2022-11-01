@@ -365,3 +365,8 @@ This weekend I learned about the history of JavaScript modules and the differenc
 
 ## Day 50: October 31, 2022
 What is Software Testing? Today we were introduced to Jest and used it to do some basic testing in JavaScript.
+
+## Day 51: November 1, 2022
+Why Testing is important and which are the benefits of doing it?
+Learnt about Test-Driven Development(TDD) and its Red/Green/Refactor cycle.
+Dived into E2E testing methodology that attempts to emulate user behaviour and assist to a Cypress Demo, a powerful JavaScript testing tool.
