@@ -370,3 +370,13 @@ What is Software Testing? Today we were introduced to Jest and used it to do som
 Why Testing is important and which are the benefits of doing it?
 Learnt about Test-Driven Development(TDD) and its Red/Green/Refactor cycle.
 Dived into E2E testing methodology that attempts to emulate user behaviour and assist to a Cypress Demo, a powerful JavaScript testing tool.
+
+
+## Day 52: November 2, 2022
+- tested an app emulating user behaviour using Cypress this morning
+
+
+https://user-images.githubusercontent.com/111753918/199602382-65e10eb1-3ce0-4faf-9bdf-0445624e7a55.mov
+
+
+- learnt how to do API endpoint testing using Jest and Supertest.
