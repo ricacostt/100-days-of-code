@@ -373,10 +373,12 @@ Dived into E2E testing methodology that attempts to emulate user behaviour and a
 
 
 ## Day 52: November 2, 2022
-- tested an app emulating user behaviour using Cypress this morning
+learnt how to do API endpoint testing using Jest and Supertest🦸🏼
+
+⬇️tested an app emulating the user journey using 
+@Cypress
 
 
 https://user-images.githubusercontent.com/111753918/199602382-65e10eb1-3ce0-4faf-9bdf-0445624e7a55.mov
 
 
-- learnt how to do API endpoint testing using Jest and Supertest.
