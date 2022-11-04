@@ -396,6 +396,6 @@ Thanks to the CouchBase team who share with us some knowledge about the company 
 👉Link to the presentation: https://docs.google.com/presentation/d/1BEGPAmbFq5YOAFBIs4ljrjwJBzY6kSGaBSaC5iyq7f0/edit?usp=sharing
 
 
-In the afternoon make my own Kata CodeWars! 
+In the afternoon make my own Kata CodeWars, setting up Jest to test codewarriors' solutions!
 
 👉Link to the challenge: https://github.com/ricacostt/CodeWars-challenge :shipit:
