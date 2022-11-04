@@ -382,3 +382,20 @@ learnt how to do API endpoint testing using Jest and Supertest🦸🏼
 https://user-images.githubusercontent.com/111753918/199602382-65e10eb1-3ce0-4faf-9bdf-0445624e7a55.mov
 
 
+
+## Day 53: November 3, 2022
+Thanks to the CouchBase team who share with us some knowledge about the company and speak about:
+- What is NoSql Database
+- Types of NoSql Databases including:
+1. Key-Value & Caching use-case
+2. Document
+3. Column-Familiy
+4. Graph
+- Relational DB vs NoSql DB
+
+👉Link to the presentation: https://docs.google.com/presentation/d/1BEGPAmbFq5YOAFBIs4ljrjwJBzY6kSGaBSaC5iyq7f0/edit?usp=sharing
+
+
+In the afternoon make my own Kata CodeWars! 
+
+👉Link to the challenge: https://github.com/ricacostt/CodeWars-challenge :shipit:
