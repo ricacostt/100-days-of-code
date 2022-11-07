@@ -399,3 +399,15 @@ Thanks to the CouchBase team who share with us some knowledge about the company 
 In the afternoon make my own Kata CodeWars, setting up Jest to test codewarriors' solutions!
 
 👉Link to the challenge: https://github.com/ricacostt/CodeWars-challenge :shipit:
+
+## Day 54: November 4, 2022
+
+#Hackathon Day!
+
+Given a To-Do List app:
+✅checked the user workflow writing E2E tests using Cypress;
+✅checked on backend and database through integration testing;
+🦩used the last few minutes of time to add some styling
+
+
+![image](https://user-images.githubusercontent.com/111753918/200385095-b52b70d5-3055-4a92-8aa2-10914d2174ce.png)
