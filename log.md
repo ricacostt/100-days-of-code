@@ -411,3 +411,10 @@ Given a To-Do List app:
 
 
 ![image](https://user-images.githubusercontent.com/111753918/200385095-b52b70d5-3055-4a92-8aa2-10914d2174ce.png)
+
+## Day 55-56: November 5-6, 2022
+spent the weekend planning a surprise birhday party - this has also involved me combining my knowledge to create a happy birthday page as a gift.
+The result was nice even though is not fully resposive - but it was also a chance to practise some css.
+
+## Day 57: November 7, 2022
+Introduction to React: a library for building UIs. Built some functions *components* that accept *props* and return React elements, using JSX (with babel support) to combine JS with HTML.
