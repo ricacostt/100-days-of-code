@@ -418,3 +418,10 @@ The result was nice even though is not fully resposive - but it was also a chanc
 
 ## Day 57: November 7, 2022
 Introduction to React: a library for building UIs. Built some functions *components* that accept *props* and return React elements, using JSX (with babel support) to combine JS with HTML.
+
+## Day 58: November 8, 2022
+Getting started to create an app with React
+- handling children in react components
+- conditional rendering
+- add styling in react
+Learnt also about immutable array methods in JS such as map(), filter(), some().
