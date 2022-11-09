@@ -423,3 +423,8 @@ Introduction to React: a library for building UIs. Built some functions *compone
 Getting started to create an app with React;
 Learne how to handle children in react components, conditional rendering, and how to add styling in react.
 Learnt also about immutable array methods in JS such as map(), filter(), some().
+
+## Day 59: November 9, 2022
+Create font checker app in React:
+Learnt useState - React Hooks functions that can be called at the top level of our components
+const [state, setState] = useState(initialState)
