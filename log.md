@@ -425,6 +425,8 @@ Learne how to handle children in react components, conditional rendering, and ho
 Learnt also about immutable array methods in JS such as map(), filter(), some().
 
 ## Day 59: November 9, 2022
-Create font checker app in React:
-Learnt useState - React Hooks functions that can be called at the top level of our components
-const [state, setState] = useState(initialState)
+
+Today we cover UseState, a react Hook, and it’s anatomy; - const [state, setState] = useState(initialState) - 
+learnt difference between smart & dumb components;
+lifting state up: Sharing State Between Components;
+and last start creatin a font checker app in React.
