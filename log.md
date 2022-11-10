@@ -433,9 +433,9 @@ and last start creatin a font checker app in React.
 
 ## Day 60: November 10, 2022
 
-- spread operator (in functions, objects, arrays)
-- immutable slice() method
-- how to render list & keys building.
+- manipulating arrays and objects with the spread operator;
+- learnt about the immutable slice() method;
+- learnt how to render lists & keys building a web page.
 
 ![Schermata 2022-11-10 alle 20 20 15](https://user-images.githubusercontent.com/111753918/201198471-7a38dcf2-c2c2-4005-a13b-c53b44c80298.png)
 
