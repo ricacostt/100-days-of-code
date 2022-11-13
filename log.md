@@ -439,3 +439,18 @@ and last start creatin a font checker app in React.
 
 ![Schermata 2022-11-10 alle 20 20 15](https://user-images.githubusercontent.com/111753918/201198471-7a38dcf2-c2c2-4005-a13b-c53b44c80298.png)
 
+
+## Day 61: November 11, 2022
+Hackathon Day! REACT
+We had to implement a to-do list app from scratch that would allow the user to add to-do's and delete them at the press of a button. Then put together all the knowledge we had gained during this week.
+It was hard; I wanted more from the result.
+The hackathon day left me with the curiosity and desire to try to implement this app again which I will ⬇️
+
+## Day 62: November 12, 2022
+Watched a couple of videos about Props and useState Hook
+
+## Day 63: November 13, 2022
+the revenge: went throught the React hackathon again (with some help)
+
+https://user-images.githubusercontent.com/111753918/201542051-672b40d6-f28c-48b0-91ef-f26ef33fe1c6.mov
+
