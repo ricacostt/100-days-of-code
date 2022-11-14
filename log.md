@@ -460,6 +460,6 @@ https://user-images.githubusercontent.com/111753918/201542051-672b40d6-f28c-48b0
 Understand the importance of keeping components pure in React and the side effects that could occur if they did not simply return their JSX without making any changes before rendering.
 Learn about the useEffect hook and use it to create a random Pokemon generator!
 
-![Schermata 2022-11-14 alle 20 41 16](https://user-images.githubusercontent.com/111753918/201761454-dcbc858e-039c-4569-8c2d-d56c9468a1bb.png)
 
+![Schermata 2022-11-14 alle 20 57 50](https://user-images.githubusercontent.com/111753918/201764151-81978642-42fc-4d04-8235-a34150da6cd8.png)
 
