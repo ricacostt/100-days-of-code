@@ -463,3 +463,8 @@ Learn about the useEffect hook and use it to create a random Pokemon generator!
 
 ![Schermata 2022-11-14 alle 20 57 50](https://user-images.githubusercontent.com/111753918/201764151-81978642-42fc-4d04-8235-a34150da6cd8.png)
 
+
+## Day 65: November 15, 2022
+
+Today we learnt the importance of creating branches, merging pull requests and solving conflicts.
+Discover useReduce hook, an alternative to useState--> from setting state to dispatching actions and adding a reducer to our components. Practice by refactoring a basic counter and a list app.
