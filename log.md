@@ -468,3 +468,7 @@ Learn about the useEffect hook and use it to create a random Pokemon generator!
 
 Today we learnt the importance of creating branches, merging pull requests and solving conflicts.
 Discover useReduce hook, an alternative to useState--> from setting state to dispatching actions and adding a reducer to our components. Practice by refactoring a basic counter and a list app.
+
+## Day 66: November 16, 2022
+
+Learnt about React Testing-library to test components in isolation. It allows us to query the DOM the same way the user would.
