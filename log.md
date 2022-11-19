@@ -485,7 +485,7 @@ We spent the morning planning our MVP product, we created user personas & user s
 , followed by the Disney ideation process to come up with ideas and then visualize them through a backlog kanban.
 The day's objective was to have fun and learn as much as possible to fill our knowledge gaps. 
 
-The app we build has the aim to help the users to get cocktails recipices to make cocktails at home.
+The app we build has the aim to help the users to get cocktails recipes to make cocktails at home.
 It was enough to build a minimum viable product to understand and fill the gap of some missing knowledge.
 
 For example the mistake of not adding the HTTPS  protocol before the request URL and  thanks to this we learn how to use the network tab to explore the exact path to which we are sending the request.
