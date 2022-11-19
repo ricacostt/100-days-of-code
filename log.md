@@ -472,3 +472,42 @@ Discover useReduce hook, an alternative to useState--> from setting state to dis
 ## Day 66: November 16, 2022
 
 Learnt about React Testing-library to test components in isolation. It allows us to query the DOM the same way the user would.
+
+## Day 67: November 17, 2022
+Quick recap on React Testing Library and how to use it
+Group research & presentation about Sprint Planning.
+
+## Day 68: November 18, 2022
+Hackathon Day
+Today we had the opportunity to experience first-hand what could one day be the reality of work given importance to the agile methodology and the design thinking process because today we went through  an iterative process where we modified our plan in accordance with time, resources and difficulties encountered along the way.
+
+We spent the morning planning our MVP product, we created user personas & user stories
+, followed by the Disney ideation process to come up with ideas and then visualize them through a backlog kanban.
+The day's objective was to have fun and learn as much as possible to fill our knowledge gaps. 
+
+The app we build has the aim to help the users to get cocktails recipices to make cocktails at home.
+It was enough to build a minimum viable product to understand and fill the gap of some missing knowledge.
+
+For example the mistake of not adding the HTTPS  protocol before the request URL and  thanks to this we learn how to use the network tab to explore the exact path to which we are sending the request.
+
+Also, we learnt more about conditional rendering to prevent to display an error for the user if the request was not land yet (adding an if statement) 
+
+I am sure we did our best today, given time and knowledge.
+
+![Schermata 2022-11-19 alle 17 18 16](https://user-images.githubusercontent.com/111753918/202863334-6a7995f7-8281-4ceb-b058-472f9592efd7.png)
+
+
+
+
+https://user-images.githubusercontent.com/111753918/202863527-924b3b18-643d-4eeb-ad5a-069a503189e0.mov
+
+
+## Day 69: November 19, 2022
+
+spent time to revisit some aspects of the agile methodology and scrum framework: 
+- Breaking down a project: Theme -> Epics -> User Stories -> Tasks
+- Stand ups & retrospectives
+- Estimation, story points, & story point poker
+- Sprint Planning
+- Scrum & Kanban, watched a small video on how to use Trello
+- Design Thinking Process to incorporate as part of the overall project (epathize, define, ideate, design, test)
