@@ -511,3 +511,7 @@ spent time to revisit some aspects of the agile methodology and scrum framework:
 - Sprint Planning
 - Scrum & Kanban, watched a small video on how to use Trello
 - Design Thinking Process to incorporate as part of the overall project (epathize, define, ideate, design, test)
+
+## Day 70: November 20, 2022
+
+Practise on both Back-End with Colin & Json Today! We met here in Cambridge, and we spent around 5 hours to build from scratch a full-stack app by learning from each other, solve issues and put all the pieces together! I had a great time with them and we learnt a lot. Back-End & Front-end are not quite linked in the app😆(matter of time 🕓).
