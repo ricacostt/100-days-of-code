@@ -519,8 +519,10 @@ Practise on both Back-End with Colin & Json Today! We met here in Cambridge, and
 
 ## Day 71: November 21, 2022
 
-WEEK'S GROUP PROJECT - GRANCHIO
-Day 1
+WEEK'S GROUP PROJECT - GRANCHIO 🦀 
+
+Day 1. 
+
 After a quick walkthrough of the project guidelines this week, I met my team.
 Together we made a draft of the Team Manifesto to ensure we felt we were in a safe environment for the project's duration.
 
