@@ -515,3 +515,24 @@ spent time to revisit some aspects of the agile methodology and scrum framework:
 ## Day 70: November 20, 2022
 
 Practise on both Back-End with Colin & Json Today! We met here in Cambridge, and we spent around 5 hours to build from scratch a full-stack app by learning from each other, solve issues and put all the pieces together! I had a great time with them and we learnt a lot. Back-End & Front-end are not quite linked in the app😆(matter of time 🕓).
+
+
+## Day 71: November 21, 2022
+
+WEEK'S GROUP PROJECT - GRANCHIO
+Day 1
+After a quick walkthrough of the project guidelines this week, I met my team.
+Together we made a draft of the Team Manifesto to ensure we felt we were in a safe environment for the project's duration.
+
+The first step was to understand the user, in this case: us boot campers. It was easy to "put ourselves in our shoes" and identify possible problems or needs to improve our overall experience during the Bootcamp.
+
+We started the day by creating user personas & user stories. We then followed the Disney method for the ideation phase. We spent a lot of time in each room because there were so many different ideas. It wasn't easy to filter them and fit them into our time to deliver an MVP product ((we used dot voting for the final decision).
+
+Once We chose the theme, we built the digital wireframes and lo-fi prototypes.
+
+Then we focused on building the component tree mapping, trying to find states to subdivide smart and dumb components.
+
+We then do the API planning table for the requests our back end will handle and a Diagram of what tables your database will contain.
+
+Everything was mapped via the project management kanban board on Trello to break the plan down and prioritise the tasks. 
+
