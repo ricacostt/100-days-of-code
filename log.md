@@ -538,3 +538,26 @@ We then do the API planning table for the requests our back end will handle and 
 
 Everything was mapped via the project management kanban board on Trello to break the plan down and prioritise the tasks. 
 
+
+## Day 72: November 22, 2022
+
+Day 2. 
+
+Short stand-up to start the day we created the tasks to be done in our backlog, trying to separate those related to the front end from those of the back end.
+
+We created a draft hi-fi prototype as a starting point to understand how our front end should look (to be all on the same page).
+
+While Yesterday We used Fibonacci Sequence to give us an idea of which topics we feel most comfortable with and which are our weaknesses; Today, we used the "spin the wheel " method with our names to establish the first pair and to decide who does what.
+
+Me and my pair focused on the Front-End. We created a React App and all the different components functionality that will render on the page. While the other pair focused on the back-end, setting up the database, created routes and modeles.
+
+We worked well Today; everyone was supportive and collaborative, and we celebrated successes.
+One thing that went particularly well was that We constantly updated each other on progress and achievements step by step by getting together before breaks, resolving doubts, getting clarification, or giving ideas.
+
+The day was productive, and we achieved more than we expected.
+
+We ran into several problems, but with each other's help, patience and good googling, we solved a significant percentage of them.
+
+We ended up the day with a team retrospective.
+
+Looking forward to link our back end with the front end!
