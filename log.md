@@ -519,8 +519,7 @@ Practise on both Back-End with Colin & Json Today! We met here in Cambridge, and
 
 ## Day 71: November 21, 2022
 
-WEEK'S GROUP PROJECT - GRANCHIO 🦀 
-
+WEEK'S GROUP PROJECT - GRANCHIO 🦀. 
 Day 1. 
 
 After a quick walkthrough of the project guidelines this week, I met my team.
@@ -541,6 +540,7 @@ Everything was mapped via the project management kanban board on Trello to break
 
 ## Day 72: November 22, 2022
 
+WEEK'S GROUP PROJECT - GRANCHIO 🦀. 
 Day 2. 
 
 Short stand-up to start the day we created the tasks to be done in our backlog, trying to separate those related to the front end from those of the back end.
@@ -561,3 +561,22 @@ We ran into several problems, but with each other's help, patience and good goog
 We ended up the day with a team retrospective.
 
 Looking forward to link our back end with the front end!
+
+## Day 73: November 23, 2022
+
+WEEK'S GROUP PROJECT - GRANCHIO 🦀. 
+Day 3. 
+
+## Day 74: November 24, 2022
+
+WEEK'S GROUP PROJECT - GRANCHIO 🦀. 
+Day 4. 
+
+
+## Day 75: November 25, 2022
+
+WEEK'S GROUP PROJECT - GRANCHIO 🦀. 
+Day 5. 
+
+
+## Day 76: November 26, 2022
