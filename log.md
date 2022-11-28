@@ -537,6 +537,8 @@ We then do the API planning table for the requests our back end will handle and 
 
 Everything was mapped via the project management kanban board on Trello to break the plan down and prioritise the tasks. 
 
+![Schermata 2022-11-28 alle 10 26 41](https://user-images.githubusercontent.com/111753918/204254764-17ba0b45-97d8-449d-9733-ce0b926ae7b5.png)
+
 
 ## Day 72: November 22, 2022
 
@@ -545,7 +547,7 @@ Day 2.
 
 Short stand-up to start the day we created the tasks to be done in our backlog, trying to separate those related to the front end from those of the back end.
 
-We created a draft hi-fi prototype as a starting point to understand how our front end should look (to be all on the same page).
+We created some digital wireframes and lo-fi prototype as a starting point to understand how our front end should look (to be all on the same page).
 
 While Yesterday We used Fibonacci Sequence to give us an idea of which topics we feel most comfortable with and which are our weaknesses; Today, we used the "spin the wheel " method with our names to establish the first pair and to decide who does what.
 
@@ -560,17 +562,36 @@ We ran into several problems, but with each other's help, patience and good goog
 
 We ended up the day with a team retrospective.
 
-Looking forward to link our back end with the front end!
+Looking forward to link our back end with the front end!  
+
+![Schermata 2022-11-28 alle 10 30 16](https://user-images.githubusercontent.com/111753918/204255490-b49134a8-ec33-4f4c-a921-a7fa8918b1a3.png)
 
 ## Day 73: November 23, 2022
 
 WEEK'S GROUP PROJECT - GRANCHIO 🦀. 
 Day 3. 
 
+Refined Hi-fi to have a good starting point and be all aligned on how the app should look.  
+We continued to work with React to create components that were then used when the back-end was completed.    
+Connected back-end and front-end!!  
+Working on CSS!  
+
+![Schermata 2022-11-28 alle 10 35 50](https://user-images.githubusercontent.com/111753918/204256608-ef25d6be-9ada-4996-97f8-7eeca5944918.png). 
+
+![Schermata 2022-11-28 alle 10 39 57](https://user-images.githubusercontent.com/111753918/204257519-6803aa5a-afdf-4a1e-9ac8-2567afc3a347.png)
+
+
+
 ## Day 74: November 24, 2022
 
 WEEK'S GROUP PROJECT - GRANCHIO 🦀. 
 Day 4. 
+
+keep working on CSS.   
+Unable to send post requests to create either new posts and new comments to be linked with the relative post.
+Create a backupherofunction: a recovery plan in case the database didn’t work the next day. (once we realised elephantSQL was in recovery mode).  
+
+![Schermata 2022-11-28 alle 10 45 30](https://user-images.githubusercontent.com/111753918/204258625-91ad8599-fd2a-45e3-b506-801432d28b0f.png)
 
 
 ## Day 75: November 25, 2022
@@ -578,5 +599,13 @@ Day 4.
 WEEK'S GROUP PROJECT - GRANCHIO 🦀. 
 Day 5. 
 
+Presentation & DEMO Day!
+
 
 ## Day 76: November 26, 2022
+
+
+## Day 77: November 27, 2022
+Day off.  
+
+## Day 78: November 28, 2022
