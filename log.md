@@ -599,13 +599,20 @@ Create a backupherofunction: a recovery plan in case the database didn’t work 
 WEEK'S GROUP PROJECT - GRANCHIO 🦀. 
 Day 5. 
 
-Presentation & DEMO Day!
+Presentation & DEMO Day!  
+
+https://user-images.githubusercontent.com/111753918/204616501-a8aa9b7e-079e-4b5d-97b9-62fc28fc1b88.mov
 
 
 ## Day 76: November 26, 2022
-
+Going through some chunck of the project.
 
 ## Day 77: November 27, 2022
 Day off.  
 
 ## Day 78: November 28, 2022
+Learnt about code review - best practices on how to give & receiving feedback
+
+## Day 79: November 29, 2022
+addressed feedback we've had and make so much amendments today to
+have a polished, documented, simplified project and codebase, to possibly use it during an interview.
