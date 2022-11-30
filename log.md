@@ -616,3 +616,13 @@ Learnt about code review - best practices on how to give & receiving feedback
 ## Day 79: November 29, 2022
 addressed feedback we've had and make so much amendments today to
 have a polished, documented, simplified project and codebase, to possibly use it during an interview.
+
+## Day 80: November 30, 2022
+Spent the day reviewing Rubbery Ducky code. 
+what I learned today: ## What I Learned Today
+- you can write a function outside a useEffect.
+When you call it inside the useEffect it will render the data and fetch it from db.
+But, you can also call it in some other places as that function is not anymore scoped based within the useEffect function
+- how to write proper css inside react. Used devTools a lot
+- how important it is to harness the power of the components (refactor all the buttons -> in a single component)
+- how improve readability of code for other readers or even the future me! (renamed everything).
