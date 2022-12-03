@@ -647,7 +647,12 @@ Learnt:
 - add an extra layer of protection: add multi factor authentication (MFA) using google authenticator
 - show profile info when click on a button and not straight away
 - use isAuthenticated from (Auht0) to show conditionally login or logout button
-- having trouble add the sensible info into the .env file - need more research
+- having trouble add the sensible info into the .env file - need more research. 
+
+
+
+https://user-images.githubusercontent.com/111753918/205451747-f6e5599b-61b6-4bd9-93ef-fedb28d5a563.mov
+
 
 ## Day 83: December 3, 2022
 review of week's project - think with my group to add login / logout functionality - (how to handle anonymous behaviour?)
