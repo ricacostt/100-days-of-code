@@ -626,3 +626,28 @@ But, you can also call it in some other places as that function is not anymore s
 - how to write proper css inside react. Used devTools a lot
 - how important it is to harness the power of the components (refactor all the buttons -> in a single component)
 - how improve readability of code for other readers or even the future me! (renamed everything).
+
+## Day 81: December 1, 2022
+What is the difference between Authentication and Authorization?
+What are the pros/cons of implementing a signup/login system yourself and of using a 3rd party service to manage it for you?
+Discovered a 3rd party service: Auth0
+Learnt:
+- ****Setting up authentication on the frontend:****
+1. Allow users to log in
+2. Allow users to log out
+3. If a user is logged in, display their information (e.g. name, email, image URL)
+- **Calling an API that validates our JWT**
+- ****Protecting our backend****
+
+## Day 82: December 2, 2022
+Hackathon Day!
+Build a React App incorporating login/logout functionality with Auth0.
+Learnt:
+- how to add further ways for users to log in using existing credentials (e.g. via GitHub).
+- add an extra layer of protection: add multi factor authentication (MFA) using google authenticator
+- show profile info when click on a button and not straight away
+- use isAuthenticated from (Auht0) to show conditionally login or logout button
+- having trouble add the sensible info into the .env file - need more research
+
+## Day 83: December 3, 2022
+review of week's project - think with my group to add login / logout functionality - (how to handle anonymous behaviour?)
