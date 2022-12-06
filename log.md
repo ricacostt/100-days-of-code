@@ -656,3 +656,13 @@ https://user-images.githubusercontent.com/111753918/205451747-f6e5599b-61b6-4bd9
 
 ## Day 83: December 3, 2022
 review of week's project - think with my group to add login / logout functionality - (how to handle anonymous behaviour?)
+
+## Day 84: December 4, 2022
+Me and the gang of project week explored firebase docs to add login functionality in our Rubbery Ducky app. We successfully connect the app with firebase. Next step -> create the UI for the login/logout.
+
+## Day 85: December 5, 2022
+Learnt how to deploy the frontend 🎉 with Netlify!
+Also, explored Netflify built-in form handling. Bots are parsing HTML files directly at deploy time, (no need for to make an API call) -> data entered in the form are shown in the netlify DB.
+## Day 86: December 6, 2022
+Learn how to deploy the backend 🎉 with Render!
+Had an issue "cannot GET /". Solved it by adding some data into tables and include the specific route to the end of the path.
