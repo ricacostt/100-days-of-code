@@ -663,6 +663,41 @@ Me and the gang of project week explored firebase docs to add login functionalit
 ## Day 85: December 5, 2022
 Learnt how to deploy the frontend 🎉 with Netlify!
 Also, explored Netflify built-in form handling. Bots are parsing HTML files directly at deploy time, (no need for to make an API call) -> data entered in the form are shown in the netlify DB.
+
 ## Day 86: December 6, 2022
 Learn how to deploy the backend 🎉 with Render!
 Had an issue "cannot GET /". Solved it by adding some data into tables and include the specific route to the end of the path.
+
+## Day 87: December 7, 2022
+read React beta docs on useContext hook and mock-up an infographic tutorial about it to share with other bootcampers.
+Learnt about custom hooks and use them to fetch data from different APIs, saving data in local storage and implementing the functionality of a counter
+
+## Day 88: December 8, 2022
+dive into custom hooks and played around with couchbase database (NoSQL db).
+
+## Day 89: December 9, 2022
+#Hackathon Day!
+Ideate, plan and build a full-stack react app and deploying both front-end and back-end. Build a expenses track app that would allow the user to track his personal month expenses and filter them by date or category. We build a funcional back-end and deployed it using render, linked backend with our frontend, build a react app and display data on the screen. Next step: adding filter options and deploy it.
+
+## Day 90: December 10, 2022
+looked up at some common interview questions to practice on.
+
+## Day 91: December 11, 2022
+project week code review
+
+## Day 92: December 12, 2022
+Great talk by engineers at Talis about their entire workflows and culture. A great chance to see the steps to develop a product and the management of it.
+Welcomed once again the engineers of Couchbase who kindly walk us through the process of setting up a databse with couchbase and how to write modeles in the backend.
+
+## Day 93: December 13, 2022
+Introduction to TypeScript, the problem that it solv and some pros and cons of it.
+Practice by refactoring code of a rock, paper, scissors app -> from JS to TS
+Mock-up interview - so glad about the result and feedback I received.
+
+## Day 94: December 14, 2022
+Started learning typescript and how to use it with React. Practiced by converting a to-do app from JavaScript to Typescript.
+
+
+
+
+
