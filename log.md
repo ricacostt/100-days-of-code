@@ -697,7 +697,7 @@ Mock-up interview - so glad about the result and feedback I received.
 ## Day 94: December 14, 2022
 Started learning typescript and how to use it with React. Practiced by converting a to-do app from JavaScript to Typescript.
 
-
-
-
+## Day 95: December 15, 2022
+start a mini TypeScript React app this morning about pokemons;
+learnt about debugging and practiced using vscode debugger tool
 
