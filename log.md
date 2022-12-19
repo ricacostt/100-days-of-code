@@ -701,3 +701,20 @@ Started learning typescript and how to use it with React. Practiced by convertin
 start a mini TypeScript React app this morning about pokemons;
 learnt about debugging and practiced using vscode debugger tool
 
+## Day 96: December 16, 2022
+Hackathon Day!!
+Build a TypeScript React app where you can check the current weather in the city of your choice.
+You can see temperature of the choosen city, a cute icon and a small description of it. Right below it you can also check the forecast for the day with a 3h frequency.
+
+https://user-images.githubusercontent.com/111753918/208454855-5a0c0b68-b5e9-4fbf-932b-ffb448c0d262.mov
+
+
+## Day 97: December 17, 2022
+Day off!! Birthday celebration
+
+## Day 98: December 18, 2022
+recap notes
+
+## Day 99: December 19, 2022
+
+## Day 100: December 20, 2022
