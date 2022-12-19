@@ -716,5 +716,6 @@ Day off!! Birthday celebration
 recap notes
 
 ## Day 99: December 19, 2022
+Introduction to Amazon Web Services (AWS) and its Management Console. Intro to AWS Amplify, getting started by following a React tutorial to create a To-do full-stack app with the AWS Amplify CLI.
 
 ## Day 100: December 20, 2022
